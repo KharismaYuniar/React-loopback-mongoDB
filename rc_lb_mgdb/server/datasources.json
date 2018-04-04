@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "kharis-mongdb": {
+    "host": "localhost",
+    "port": 27017,
+    "url": "mongodb://agan:12345@localhost:27017/kantor",
+    "database": "kantor",
+    "password": "12345",
+    "name": "kharis-mongdb",
+    "user": "agan",
+    "connector": "mongodb"
+  }
+}
